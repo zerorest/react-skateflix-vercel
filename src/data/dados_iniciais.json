@@ -1,0 +1,213 @@
+{
+  "categorias": [
+    {
+      "titulo": "Flip",
+      "link": "https://www.youtube.com/results?search_query=kickflip",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Se liga nessa trick",
+        "url": "https://www.youtube.com/results?search_query=flip"
+      },
+      "videos": [
+        {
+          "titulo": "10 dicas pra mandar flip alto com Luan de Oliveira #Comafeijão",
+          "url": "https://www.youtube.com/watch?v=IuA9rztHMPQ"
+        },
+        {
+          "titulo": "Skateology: kickflip (1000 fps slow motion)",
+          "url": "https://www.youtube.com/watch?v=wfCgCXvw50A"
+        },
+        {
+          "titulo": "How-To Kickflip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=wNjLAI1IlUI"
+        },
+        {
+          "titulo": "HOW TO KICKFLIP THE EASIEST WAY TUTORIAL",
+          "url": "https://www.youtube.com/watch?v=4XgjDhSnTtE"
+        },
+        {
+          "titulo": "HOW TO: KICKFLIP",
+          "url": "https://www.youtube.com/watch?v=XvSXamwmFdo"
+        },
+        {
+          "titulo": "What's Wrong With Your Kickflip & How to Fix It",
+          "url": "https://www.youtube.com/watch?v=KTW5xEoFTsQ"
+        },
+        {
+          "titulo": "Como mandar um FLIP | sobreskate",
+          "url": "https://www.youtube.com/watch?v=1oLxtXUN-oc"
+        },
+        {
+          "titulo": "COMO MANDAR KICKFLIP - MUITO FÁCIL !!!",
+          "url": "https://www.youtube.com/watch?v=XoR91eWMpug"
+        },
+        {
+          "titulo": "Kelly Hart 1000fps slow motion kickflip",
+          "url": "https://www.youtube.com/watch?v=cC7VEqn-mUM"
+        },
+        {
+          "titulo": "How-To Skateboarding: Kickflips with Dennis Durrant",
+          "url": "https://www.youtube.com/watch?v=TezQvNZgxTA"
+        },
+        {
+          "titulo": "HOW TO PERFECT KICKFLIPS",
+          "url": "https://www.youtube.com/watch?v=0ftx2suc6hA"
+        },
+        {
+          "titulo": "COMO MANDAR FLIP!!!",
+          "url": "https://www.youtube.com/watch?v=tfGJko-m-TY"
+        }        
+      ]
+    },
+    {
+      "titulo": "Heelflip",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Alguns Heelflips para se inspirar",
+        "url": "https://www.youtube.com/results?search_query=heelflip"
+      },
+      "videos": [
+        {
+          "titulo": "HOW TO LAND THE BEST HEELFLIP IN THE WORLD! Ft. NEEN WILLIAMS",
+          "url": "https://www.youtube.com/watch?v=rhwZhGMSvbE"
+        },
+        {
+          "titulo": "How To Heelflip",
+          "url": "https://www.youtube.com/watch?v=zfS-Ji3VDB4"
+        },
+        {
+          "titulo": "How-To Heelflip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=TqJTxROm7rg"
+        },
+        {
+          "titulo": "How-To Heelflip - Skateboarding 101 with Christian Flores",
+          "url": "https://www.youtube.com/watch?v=CuaRVLW3QNM"
+        },
+        {
+          "titulo": "Como mandar heelflip | sobreskate",
+          "url": "https://www.youtube.com/watch?v=qLLYOQyLJpQ"
+        }, 
+        {
+          "titulo": "HOW TO HEELFLIP THE EASIEST WAY 2.0",
+          "url": "https://www.youtube.com/watch?v=phsJk5_jHkU"
+        }
+      ]
+    },
+    {
+      "titulo": "Varial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "A manobra Shuvit, ou Varial, no Brasil",
+        "url": "https://www.youtube.com/results?search_query=how+to+shuvit"
+      },
+      "videos": [
+        {
+          "titulo": "How-To Shuvit - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=JYuwXjlTqZw"
+        },
+        {
+          "titulo": "How to Pop Shove It & How to Shove It",
+          "url": "https://www.youtube.com/watch?v=2BXzIWbSo-4"
+        },
+        {
+          "titulo": "Como mandar Pop Shov-it | sobreskate",
+          "url": "https://www.youtube.com/watch?v=ug1DFKYfoMw"
+        },
+        {
+          "titulo": "Como mandar SHOVE IT e VARIAL - FEUPOS DICAS!",
+          "url": "https://www.youtube.com/watch?v=PhTlqW1VXFw"
+        }
+      ]
+    },
+    {
+      "titulo": "360 flip",
+      "cor": "orange",
+      "link_extra": {
+        "text": "No Brasil o Kickflip",
+        "url": "https://www.youtube.com/results?search_query=360+flip"
+      },
+      "videos": [
+        {
+          "titulo": "How-To 360 Flip - BASICS with Spencer Nuzzi",
+          "url": "https://www.youtube.com/watch?v=zjS8cGlXmUs"
+        },
+        {
+          "titulo": "HOW TO: 360 FLIP",
+          "url": "https://www.youtube.com/watch?v=6YlQAFip5mc"
+        },
+        {
+          "titulo": "360 triple flip slow motion",
+          "url": "https://www.youtube.com/watch?v=ZJHjn7kczuw"
+        },
+        {
+          "titulo": "HOW TO PERFECT TRE FLIPS",
+          "url": "https://www.youtube.com/watch?v=BWGWoPZOnh8"
+        },
+        {
+          "titulo": "Why Your Tre Flip SUCKS & How to FIX IT!",
+          "url": "https://www.youtube.com/watch?v=8C-J4CanbHQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
